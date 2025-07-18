@@ -45,4 +45,4 @@ Docker         ███░░░░░░░░░░░░░░░░░   10
 
 **My static resume (sorry not always up to date but you get the gist): [Ogy Cangoz](https://myportfoliobucket-ogyworld.s3.amazonaws.com/my_portfolio/index.html)**
 
-**Oops, this is my professional github account. Check out my personal here: [Ogy Cangoz]([https://myportfoliobucket-ogyworld.s3.amazonaws.com/my_portfolio/index.html](https://github.com/ogyWorldz?tab=overview&from=2022-12-01&to=2022-12-31))**
+**Oops, this is my professional github account. Check out my personal here: [ogywrld](https://github.com/ogyWorldz?tab=overview&from=2022-12-01&to=2022-12-31)**
