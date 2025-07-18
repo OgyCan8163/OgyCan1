@@ -20,7 +20,7 @@ Airflow        █████░░░░░░░░░░░░░░░   15
 Docker         ███░░░░░░░░░░░░░░░░░   10 %
 ```
 
-**Professional GitHub averages about 65+ commits per year**
+**Professional GitHub averages about 65+ commits per year. I average 250+ per year**
 
 
 **languages and tools:**  
@@ -43,4 +43,6 @@ Docker         ███░░░░░░░░░░░░░░░░░   10
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
+**My static resume (sorry not always up to date but you get the gist): [Ogy Cangoz](https://myportfoliobucket-ogyworld.s3.amazonaws.com/my_portfolio/index.html)**
 
+**Oops, this is my professional github account. Check out my personal here: [Ogy Cangoz]([https://myportfoliobucket-ogyworld.s3.amazonaws.com/my_portfolio/index.html](https://github.com/ogyWorldz?tab=overview&from=2022-12-01&to=2022-12-31))**
